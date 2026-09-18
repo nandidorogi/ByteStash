@@ -1,0 +1,63 @@
+{
+  "action": {
+    "activate": "Felhasználó aktiválása",
+    "deactivate": "Felhasználó deaktiválása",
+    "delete": "Felhasználó törlése"
+  },
+  "columns": {
+    "labels": {
+      "actions": "Műveletek",
+      "apiKeysCount": "API kulcsok",
+      "authType": "Hitelesítés típusa",
+      "created": "Létrehozva",
+      "email": "Email",
+      "lastLogin": "Utolsó bejelentkezés",
+      "snippetsCount": "Snippetek",
+      "status": "Állapot",
+      "username": "Felhasználónév"
+    }
+  },
+  "confirmationModal": {
+    "message": "Biztosan törölni szeretnéd ezt a felhasználót? Ez véglegesen törli az összes snippetjét, API kulcsát és megosztását. A művelet nem vonható vissza.",
+    "title": "Felhasználó törlése"
+  },
+  "entityName_one": "felhasználó",
+  "entityName_other": "felhasználók",
+  "error": {
+    "delete": {
+      "default": "A felhasználó törlése sikertelen"
+    },
+    "update": {
+      "default": "A felhasználó frissítése sikertelen"
+    }
+  },
+  "filters": {
+    "authType": {
+      "all": "Összes hitelesítési típus",
+      "internal": "Belső",
+      "oidc": "OIDC"
+    },
+    "search": "Felhasználók keresése...",
+    "status": {
+      "active": "Aktív",
+      "all": "Összes állapot",
+      "inactive": "Inaktív"
+    }
+  },
+  "status": {
+    "active": "Aktív",
+    "inactive": "Inaktív"
+  },
+  "success": {
+    "delete": {
+      "default": "Felhasználó sikeresen törölve"
+    },
+    "update": {
+      "default": "Felhasználó állapota frissítve"
+    }
+  },
+  "table": {
+    "emptyMessage": "Nem találhatóak felhasználók",
+    "loadingMessage": "Felhasználók betöltése..."
+  }
+}

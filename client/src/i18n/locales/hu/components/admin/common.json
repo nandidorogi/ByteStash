@@ -1,0 +1,12 @@
+{
+  "adminTable": {
+    "defaultEmptyMessage": "Nincs megjeleníthető adat",
+    "defaultLoadingMessage": "Betöltés..."
+  },
+  "filterInput": {
+    "defaultPlaceholder": "Keresés..."
+  },
+  "filterSelect": {
+    "defaultPlaceholder": "Kiválasztás..."
+  }
+}

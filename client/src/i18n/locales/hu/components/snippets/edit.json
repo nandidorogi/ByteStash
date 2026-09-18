@@ -1,0 +1,57 @@
+{
+  "editSnippetModal": {
+    "addSnippet": "Új snippet hozzáadása",
+    "editSnippet": "Snippet szerkesztése",
+    "error": {
+      "savingFailed": "Hiba történt a snippet mentése közben. Kérjük, próbálja újra."
+    },
+    "form": {
+      "categories": {
+        "counter": "{{categories}}/{{max}} kategória",
+        "label": "Kategóriák (max {{max}})",
+        "placeholder": "Írjon be egy kategóriát, majd nyomja meg az Entert, vagy a vesszőt"
+      },
+      "codeFragments": {
+        "add": "Új kódrészlet hozzáadása",
+        "label": "Kódrészletek ({{fragments}})"
+      },
+      "description": {
+        "label": "Leírás",
+        "placeholder": "Írjon rövid leírást a snippetről"
+      },
+      "isPublic": {
+        "description": "A publikus kódrészleteket bárki megtekintheti hitelesítés nélkül",
+        "label": "Snippet publikussá tétele"
+      },
+      "title": {
+        "counter": "{{characters}}/{{max}} karakter",
+        "label": "Cím",
+        "placeholder": "Adja meg a snippet címét (max {{max}} karakter)"
+      }
+    },
+    "fragmentRequired": "Legalább egy kódrészlet megadása kötelező",
+    "mustHaveFileNames": "Minden kódrészlethez meg kell adni fájlnevet",
+    "unsavedChanges": "Mentetlen módosítások vannak. Biztosan be akarod zárni?"
+  },
+  "fragmentEditor": {
+    "action": {
+      "collapse": "Összezárás",
+      "delete": "Törlés",
+      "expand": "Kibontás"
+    },
+    "form": {
+      "fileName": {
+        "placeholder": "Fájlnév"
+      },
+      "language": {
+        "placeholder": "Nyelv kiválasztása",
+        "sections": {
+          "other": "Egyéb",
+          "used": "Használt"
+        }
+      }
+    },
+    "moveDown": "Mozgatás lefelé",
+    "moveUp": "Mozgatás felfelé"
+  }
+}

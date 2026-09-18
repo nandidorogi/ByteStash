@@ -1,0 +1,31 @@
+{
+  "card": {
+    "apiKeys": {
+      "title": "API Kulcsok"
+    },
+    "shares": {
+      "title": "Megosztások"
+    },
+    "snippets": {
+      "apiKeys": {
+        "active": "Aktív"
+      },
+      "shares": {
+        "total": "Összesen"
+      },
+      "title": "Snippetek",
+      "viewType": {
+        "private": "Privát",
+        "public": "Publikus"
+      }
+    },
+    "users": {
+      "authType": {
+        "internal": "Belső",
+        "oidc": "OIDC"
+      },
+      "title": "Felhasználók"
+    }
+  },
+  "loadingMessage": "Statisztikák betöltése..."
+}

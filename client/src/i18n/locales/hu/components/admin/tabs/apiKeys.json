@@ -1,0 +1,33 @@
+{
+  "apiKeyDeletedSuccessfully": "Az API kulcs sikeresen törölve",
+  "columns": {
+    "labels": {
+      "actions": "Műveletek",
+      "created": "Létrehozva",
+      "lastUsed": "Utoljára használva",
+      "name": "Név",
+      "owner": "Tulajdonos",
+      "status": "Állapot"
+    }
+  },
+  "confirmationModal": {
+    "message": "Biztosan törölni szeretnéd ezt az API kulcsot? A kulcs tulajdonosa a továbbiakban nem használhatja azt az API elérésére. Ez a művelet nem vonható vissza.",
+    "title": "API kulcs törlése"
+  },
+  "entityName_one": "API kulcs",
+  "entityName_other": "API kulcsok",
+  "error": {
+    "default": "Az API kulcs törlése sikertelen"
+  },
+  "filters": {
+    "userId": "Szűrés felhasználói ID azonosító alapján"
+  },
+  "status": {
+    "active": "Aktív",
+    "inactive": "Inaktív"
+  },
+  "table": {
+    "emptyMessage": "Nem találhatók API kulcsok",
+    "loadingMessage": "API kulcsok betöltése..."
+  }
+}

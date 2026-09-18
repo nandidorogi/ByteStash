@@ -1,0 +1,11 @@
+{
+  "addToFavorites": "Hozzáadás a kedvencekhez",
+  "deleteSnippet": "Snippet törlése",
+  "duplicateSnippet": "Snippet duplikálása",
+  "editSnippet": "Snippet szerkesztése",
+  "openInNewTab": "Megnyitás új lapon",
+  "pinSnippet": "Snippet kitűzése",
+  "removeFromFavorites": "Eltávolítás a kedvencek közül",
+  "shareSnippet": "Snippet megosztása",
+  "unpinSnippet": "Snippet kitűzésének feloldása"
+}

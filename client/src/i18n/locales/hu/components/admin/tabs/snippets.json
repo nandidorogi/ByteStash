@@ -1,0 +1,57 @@
+{
+  "action": {
+    "delete": "Snippet törlése",
+    "makePrivate": "Priváttá teszem",
+    "makePublic": "Publikussá teszem",
+    "scanForOffensiveContent": "Keresés sértő tartalomra",
+    "showAllSnippets": "Összes snippet megjelenítése",
+    "viewSnippet": "Snippet megtekintése"
+  },
+  "columns": {
+    "labels": {
+      "actions": "Műveletek",
+      "fragments": "Kódrészletek",
+      "owner": "Tulajdonos",
+      "title": "Cím",
+      "updated": "Frissítve",
+      "visibility": "Láthatóság"
+    }
+  },
+  "confirmationModal": {
+    "message": "Biztosan véglegesen törölni szeretné ezt a snippetet? Ez a művelet nem vonható vissza.",
+    "title": "Snippet törlése"
+  },
+  "containsOffensiveWords": "Sértő szavakat tartalmaz: {{words}}",
+  "entityName_one": "snippet",
+  "entityName_other": "snippetek",
+  "error": {
+    "delete": {
+      "default": "A snippet törlése sikertelen"
+    },
+    "update": {
+      "default": "A snippet láthatóságának frissítése sikertelen"
+    }
+  },
+  "filters": {
+    "search": "Snippetek keresése...",
+    "userId": "Felhasználó azonosító ID",
+    "visibility": {
+      "all": "Összes láthatóság",
+      "private": "Privát",
+      "public": "Publikus"
+    }
+  },
+  "offensiveContentMessage": "{{total}} db sértő tartalmú {{entityName}} található",
+  "success": {
+    "delete": {
+      "default": "Snippet sikeresen törölve"
+    },
+    "update": {
+      "default": "Snippet láthatósága frissítve"
+    }
+  },
+  "table": {
+    "emptyMessage": "Nem találhatók snippetek",
+    "loadingMessage": "Snippetek betöltése..."
+  }
+}

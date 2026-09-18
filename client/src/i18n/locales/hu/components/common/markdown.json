@@ -1,0 +1,15 @@
+{
+  "mermaid": {
+    "copyCode": "Mermaid kód másolása",
+    "downloadPNG": "Letöltés PNG-ként",
+    "downloadSVG": "Letöltés SVG-ként",
+    "exitFullscreen": "Kilépés teljes képernyős módból",
+    "fullscreen": "Teljes képernyő",
+    "renderError": "Nem sikerült megjeleníteni a Mermaid diagramot:",
+    "renderErrorFallback": "Hiba a diagram megjelenítésekor",
+    "resetView": "Nézet alaphelyzetbe állítása",
+    "title": "Mermaid Diagram",
+    "zoomIn": "Nagyítás",
+    "zoomOut": "Kicsinyítés"
+  }
+}

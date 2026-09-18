@@ -1,0 +1,56 @@
+{
+  "authAwareSnippetView": {
+    "error": {
+      "snippetLoad": "Nem sikerült betölteni a snippetet",
+      "snippetRequireAuth": "A snippet megtekintéséhez hitelesítés szükséges"
+    }
+  },
+  "baseSnippetStorage": {
+    "error": {
+      "sessionExpired": "A munkamenet lejárt. Kérjük jelentkezz be újra.",
+      "snippetCreated": "Nem sikerült létrehozni a snippetet",
+      "snippetUpdated": "Nem sikerült frissíteni a snippetet"
+    },
+    "success": {
+      "displayAll": "Az összes snippet megjelenítése",
+      "displayFavorites": "A kedvenc snippetek megjelenítése",
+      "snippetCreated": "Az új snippet sikeresen létrejött",
+      "snippetUpdated": "A snippet sikeresen frissítve"
+    }
+  },
+  "browsePublicSnippets": "Publikus kódrészletek böngészése",
+  "filter": {
+    "filteredByCategories": "Kategóriák szerinti szűrés"
+  },
+  "loadingSnippets": "Snippetek betöltése...",
+  "signIn": "Bejelentkezés",
+  "sippetNotFound": "A snippet nem található",
+  "snippetContentArea": {
+    "error": {
+      "duplicateSnippet": "Nem sikerült duplikálni a snippetet",
+      "loadSnippets": "Nem sikerült betölteni a snippeteket",
+      "moveSnippetToRecycleBin": "Nem sikerült áthelyezni a snippetet a lomtárba. Kérjük próbálja újra.",
+      "sessionExpired": "A munkamenet lejárt. Kérjük jelentkezz be újra.",
+      "updateFavoriteStatusAdded": "Nem sikerült frissíteni a kedvenc státuszt. Kérjük próbálja újra.",
+      "updateFavoriteStatusDeleted": "Nem sikerült frissíteni a kedvenc státuszt. Kérjük próbálja újra.",
+      "updatePinStatusAdded": "Nem sikerült frissíteni a kitűzőtt státuszt. Kérjük próbálja újra.",
+      "updatePinStatusDeleted": "Nem sikerült frissíteni a kitűzőtt státuszt. Kérjük próbálja újra."
+    },
+    "success": {
+      "duplicateSnippet": "A snippet sikeresen duplikálva",
+      "moveSnippetToRecycleBin": "A snippet sikeresen áthelyezve a lomtárba",
+      "updateFavoriteStatusAdded": "A snippet sikeresen hozzáadva a kedvencekhez",
+      "updateFavoriteStatusDeleted": "A snippet sikeresen eltávolítva a kedvencek közül",
+      "updatePinStatusAdded": "A snippet sikeresen kitűzésre került",
+      "updatePinStatusDeleted": "A snippet kitűzése sikeresen megszüntetve"
+    }
+  },
+  "storageHeader": {
+    "private": "Privát snippeteid tekinted meg. Ezeket a snippeteket csak te láthatod és módosíthatod.",
+    "public": "Publikusan megosztott snippeteket tekintesz meg. Ezek a snippetek csak olvashatóak és mindenki számára láthatóak."
+  },
+  "viewSwitch": {
+    "private": "Privát",
+    "public": "Publikus"
+  }
+}

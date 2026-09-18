@@ -1,0 +1,71 @@
+{
+  "copyButton": {
+    "title": "Másolás vágólapra"
+  },
+  "downloadArchiveButton": {
+    "error": {
+      "failedDownload": "Az archívum letöltése sikertelen"
+    },
+    "fileLabel_one": "{{count, number}} fájl",
+    "fileLabel_other": "{{count, number}} fájlok",
+    "label": "Összes letöltése",
+    "success": {
+      "downloadedAll": "Az összes kódrészlet letöltve"
+    },
+    "title": "Az összes fájl letöltése ZIP archívumként"
+  },
+  "downloadButton": {
+    "error": {
+      "failedDownload": "A fájl letöltése sikertelen"
+    },
+    "success": {
+      "downloaded": "A(z) \"{{fileName}}\" sikeresen letöltve"
+    },
+    "title": "{{fileName}} letöltése",
+    "warning": {
+      "nothing": "Nincs mit letölteni"
+    }
+  },
+  "exportButton": {
+    "title": "Exportálás képként",
+    "tooltip": "Exportálás"
+  },
+  "exportModal": {
+    "copyClipboard": "Másolás",
+    "downloadPng": "PNG letöltése",
+    "downloadSvg": "SVG letöltése",
+    "errorCopy": "A kép másolása sikertelen",
+    "errorGenerate": "A kép generálása sikertelen",
+    "shareLinkedIn": "Megosztás LinkedIn-en",
+    "shareTwitter": "Megosztás X-en",
+    "successCopy": "Kép a vágólapra másolva!",
+    "title": "Kód exportálása"
+  },
+  "fileUploadButton": {
+    "error": {
+      "unknown": "Ismeretlen hiba"
+    },
+    "info": {
+      "duplicateDetected": "Duplikált fájl észlelve",
+      "duplicatesDetected_one": "{{count, number}} duplikált fájl észlelve",
+      "duplicatesDetected_other": "{{count, number}} duplikált fájlok észlelve"
+    },
+    "label": "Kódfájl(ok) feltöltése",
+    "loadFromUrl": {
+      "contentMaxSizeError": "A tartalom mérete nem haladhatja meg a következőt: {{max}}",
+      "invalidUrl": "Kérjük adjon meg érvényes URL-t",
+      "label": "Betöltés URL-ből",
+      "title": "Kód betöltése URL-ből (pl. nyers GitHub-link)"
+    },
+    "success": {
+      "filesUploaded_one": "{{count, number}} fájl feltöltve",
+      "filesUploaded_other": "{{count, number}} fájl sikeresen feltöltve",
+      "fileUploaded": "A(z) \"{{fileName}}\" sikeresen feltöltve",
+      "someFilesUploaded": "{{successCount}} of {{total}} fájl sikeresen feltöltve"
+    },
+    "title": "Kódfájlok feltöltése kódtöredékek automatikus létrehozásához"
+  },
+  "rawButton": {
+    "title": "Nyers formátum megnyitása"
+  }
+}

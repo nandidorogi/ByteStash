@@ -1,0 +1,49 @@
+{
+  "action": {
+    "copyShareLink": "Megosztási link másolása",
+    "delete": "Megosztás törlése",
+    "viewSnippet": "Snippet megtekintése"
+  },
+  "columns": {
+    "labels": {
+      "actions": "Műveletek",
+      "auth": "Hitelesítés szükséges",
+      "created": "Létrehozva",
+      "expires": "Lejárat",
+      "id": "Megosztás ID azonosítója",
+      "owner": "Tulajdonos",
+      "title": "Cím"
+    }
+  },
+  "confirmationModal": {
+    "message": "Biztosan törölni szeretnéd ezt a megosztási linket? A link birtokosai a továbbiakban nem férhetnek hozzá a snippethez. Ez a művelet nem vonható vissza.",
+    "title": "Megosztás törlése"
+  },
+  "entityName_one": "megosztás",
+  "entityName_other": "megosztások",
+  "error": {
+    "delete": {
+      "default": "A megosztás törlése sikertelen"
+    }
+  },
+  "filters": {
+    "authType": {
+      "all": "Minden hitelesítési típus",
+      "public": "Publikus",
+      "requiresAuth": "Hitelesítést igényel"
+    },
+    "userId": "Szűrés felhasználói ID azonosító alapján"
+  },
+  "success": {
+    "copied": {
+      "default": "Megosztási link a vágólapra másolva"
+    },
+    "delete": {
+      "default": "Megosztás sikeresen törölve"
+    }
+  },
+  "table": {
+    "emptyMessage": "Nem találhatóak megosztások",
+    "loadingMessage": "Megosztások betöltése..."
+  }
+}

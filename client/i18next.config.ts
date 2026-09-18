@@ -9,7 +9,8 @@ export default defineConfig({
     Locale.es,
     Locale.ja,
     Locale.zh,
-    Locale.it
+    Locale.it,
+    Locale.hu
   ],
   extract: {
     input: 'src/**/*.{js,jsx,ts,tsx}',

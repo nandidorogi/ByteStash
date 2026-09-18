@@ -1,0 +1,28 @@
+{
+  "fullCodeView": {
+    "dateTimeAgo": "{{dateTime}} óta",
+    "defaultDescription": "Nincs elérhető leírás"
+  },
+  "snippetModal": {
+    "confirmationModal": {
+      "confirmLabel": {
+        "isRecycleView": {
+          "false": "Áthelyezés a Lomtárba",
+          "true": "Végleges törlés"
+        }
+      },
+      "message": {
+        "isRecycleView": {
+          "false": "Biztosan át szeretné helyezni a(z) \"{{title}}\" elemet a Lomtárba?",
+          "true": "Biztosan véglegesen törölni szeretné a(z) \"{{title}}\" elemet? Ez a művelet nem vonható vissza."
+        }
+      },
+      "title": {
+        "isRecycleView": {
+          "false": "Áthelyezés a Lomtárba",
+          "true": "Törlés megerősítése"
+        }
+      }
+    }
+  }
+}

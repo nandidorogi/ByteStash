@@ -1,0 +1,18 @@
+{
+  "publicSnippetContentArea": {
+    "error": {
+      "addSnippetToCollection": "Nem sikerült hozzáadni a snippetet a gyűjteményedhez",
+      "failedLoadSnippets": "Nem sikerült betölteni a publikus snippeteket"
+    },
+    "filter": {
+      "byCategories": "Kategóriák szerinti szűrés"
+    },
+    "info": {
+      "requireAuth": "Kérjük jelentkezz be, ha hozzá szeretnéd adni ezt a snippetet a gyűjteményedhez"
+    },
+    "loadingSnippets": "Snippets betöltése...",
+    "success": {
+      "addSnippetToCollection": "A snippet hozzáadva a gyűjteményedhez"
+    }
+  }
+}

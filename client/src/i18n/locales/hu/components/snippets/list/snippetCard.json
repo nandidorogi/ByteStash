@@ -1,0 +1,37 @@
+{
+  "confirmationModalDelete": {
+    "confirmLabel": {
+      "isRecycleView": {
+        "false": "Áthelyezés a Lomtárba",
+        "true": "Végleges törlés"
+      }
+    },
+    "message": {
+      "isRecycleView": {
+        "false": "Biztosan át szeretné helyezni a(z) \"{{title}}\" elemet a Lomtárba?",
+        "true": "Biztosan véglegesen törölni szeretné a(z) \"{{title}}\" elemet? Ez a művelet nem vonható vissza."
+      }
+    },
+    "title": {
+      "isRecycleView": {
+        "false": "Áthelyezés a Lomtárba",
+        "true": "örlés megerősítése"
+      }
+    }
+  },
+  "confirmationModalRestore": {
+    "message": "Biztosan vissza szeretné állítani a(z) \"{{title}}\" elemet?",
+    "title": "Visszaállítás megerősítése"
+  },
+  "date": {
+    "ago": "{{date}} óta",
+    "expiringSoon": "Hamarosan lejár",
+    "left": "{{date}} van hátra"
+  },
+  "defaultDescription": "Nincs elérhető leírás",
+  "defaultUpdateTime": "Ismeretlen",
+  "favorite": "Kedvenc",
+  "pinned": "Kitűzött",
+  "public": "Publikus",
+  "shared": "Megosztott"
+}

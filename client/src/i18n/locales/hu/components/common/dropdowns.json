@@ -1,0 +1,6 @@
+{
+  "baseDropdown": {
+    "addNewLabel": "Új hozzáadása",
+    "defaultPlaceholder": "Válassz ki, vagy írj be egy értéket"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "embedCopyButton": {
+    "title": "Másolás vágólapra"
+  },
+  "embedModal": {
+    "form": {
+      "embedCode": "Beágyazási kód",
+      "fragmentToShow": {
+        "all": "Összes kódrészlet",
+        "label": "Megjelenítendő kódrészlet (opcionális)"
+      },
+      "showDescription": "Leírás megjelenítése",
+      "showFileHeaders": "Fájlfejlécek megjelenítése",
+      "showPoweredBy": "„Powered by ByteStash” megjelenítése",
+      "showTitle": "Cím megjelenítése",
+      "theme": "Téma"
+    },
+    "subTitle": "Beágyazás testreszabása",
+    "title": "Snippet beágyazása"
+  },
+  "embedView": {
+    "error": {
+      "default": "A snippet betöltése sikertelen"
+    }
+  }
+}

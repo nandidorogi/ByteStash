@@ -1,0 +1,8 @@
+{
+  "snippetViewModal": {
+    "error": {
+      "failedLoad": "A snippet betöltése sikertelen"
+    },
+    "title": "Snippet betöltése..."
+  }
+}

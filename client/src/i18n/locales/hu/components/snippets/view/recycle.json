@@ -1,0 +1,37 @@
+{
+  "recycleSnippetContentArea": {
+    "error": {
+      "deleteSnippet": "A snippet törlése sikertelen",
+      "loadSnippets": "A snippetek betöltése sikertelen",
+      "restoreSnippet": "A snippet visszaállítása sikertelen",
+      "sessionExpired": "A munkamenet lejárt. Kérjük jelentkezzen be újra."
+    },
+    "filter": {
+      "byCategories": "Szűrés kategóriák szerint"
+    },
+    "loadingSnippets": "Snippetek betöltése...",
+    "success": {
+      "deleteSnippet": "A snippet sikeresen törölve",
+      "restoreSnippet": "A snippet sikeresen visszaállítva"
+    }
+  },
+  "recycleSnippetStorage": {
+    "backToSnippets": "Vissza a snippetekhez",
+    "confirmationModal": {
+      "message": "Biztosan véglegesen törölni szeretné a lomtárban lévő összes snippetet? Ez a művelet nem vonható vissza.",
+      "title": "Törlés megerősítése"
+    },
+    "description": "A lomtárban lévő snippetek 30 nap elteltével véglegesen törlődnek",
+    "error": {
+      "clear": "A lomtár ürítése sikertelen. Kérjük próbálja újra.",
+      "sessionExpired": "A munkamenet lejárt. Kérjük jelentkezzen be újra."
+    },
+    "info": {
+      "noSnippets": "Nincsenek törölhető snippetek a lomtárban"
+    },
+    "recycleBin": "Lomtár",
+    "success": {
+      "clear": "A lomtárban lévő összes snippet törölve"
+    }
+  }
+}

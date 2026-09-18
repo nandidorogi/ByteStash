@@ -1,0 +1,7 @@
+{
+  "changelogModal": {
+    "error": {
+      "default": "Nem sikerült betölteni a változásnaplót. Kérjük próbálja meg később."
+    }
+  }
+}

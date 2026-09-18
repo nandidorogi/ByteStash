@@ -1,0 +1,48 @@
+{
+  "sharedSnippetView": {
+    "browsePublicSnippets": "Publikus kódrészletek böngészése",
+    "loadingSnippet": "Snippet betöltése...",
+    "snippetExpired": "Ez a megosztott snippet lejárt",
+    "snippetNotFound": "A snippet nem található"
+  },
+  "shareMenu": {
+    "activeShareLinks": {
+      "buttons": {
+        "copy": "Link másolása",
+        "delete": "Megosztási link törlése",
+        "requiresAuth": {
+          "false": "Snippet beágyazása",
+          "true": "Csak hitelesítést nem igénylő snippetek ágyazhatók be"
+        }
+      },
+      "date": {
+        "expired": "Lejárt",
+        "neverExpires": "Soha nem jár le"
+      },
+      "noLinks": "Nincsenek aktív megosztási linkek",
+      "relativeExpiryTime": "Lejárat: {{date}}",
+      "requiresAuth": {
+        "false": "Publikus hozzáférés",
+        "true": "Védett – Hitelesítés szükséges"
+      },
+      "title": "Aktív megosztási linkek"
+    },
+    "createButtonText": "Megosztási link létrehozása",
+    "error": {
+      "created": "Nem sikerült létrehozni a megosztási linket",
+      "deleted": "Nem sikerült törölni a megosztási linket",
+      "invalidDuration": "Érvénytelen időtartam formátum. Használj pl. 1h, 2d, 30m formátumot.",
+      "load": "Nem sikerült betölteni a megosztásokat",
+      "unknownExpiryTime": "Ismeretlen lejárati idő"
+    },
+    "expiresIn": "Lejárat (pl. 1h, 2d, 30m)",
+    "expiresInPlaceholder": "Soha",
+    "requiresAuth": "Hitelesítés szükséges",
+    "subTitle": "Új megosztási link létrehozása",
+    "success": {
+      "created": "Megosztási link létrehozva",
+      "deleted": "Megosztási link törölve"
+    },
+    "title": "Snippet megosztása"
+  }
+}
